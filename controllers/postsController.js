@@ -354,6 +354,8 @@ export const deletePost = async (req, res) => {
         .json({ message: "Post not found or user does not own the post" });
     }
 
+    await prisma.post.deleteMany({where: {parentId: post.id}})
+
     if (post.media && post.media.length > 0 && post.media[0].type === "IMAGE") {
       await cloudinary.uploader.destroy(post.media[0].urlPublicId);
     }
