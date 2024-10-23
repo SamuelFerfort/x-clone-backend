@@ -44,7 +44,7 @@ Backend for the X-Clone application, built with Node.js and Express, managing us
 ### 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/x-clone-backend.git
+git clone https://github.com/SamuelFerfort/x-clone-backend.git
 cd x-clone-backend
 ```
 
