@@ -1,5 +1,18 @@
 # X-Clone Backend
 
+<p align="center">
+  <img src="https://res.cloudinary.com/dy0av590l/image/upload/v1729663178/Screenshot_from_2024-10-23_07-47-01_djecvn.png" alt="X-clone App screenshot" width="800"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io Badge"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT Badge"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary Badge"/>
+</p>
+
 Backend for the X-Clone application, built with Node.js and Express, managing user authentication, media uploads, and data storage with Prisma and PostgreSQL.
 
 ## 🔗 Links
