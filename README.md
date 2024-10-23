@@ -28,7 +28,6 @@ Backend for the X-Clone application, built with Node.js and Express, managing us
 - **ORM:** Prisma
 - **Authentication:** JSON Web Tokens (JWT)
 - **File Uploads:** Cloudinary
-- **Environment Management:** dotenv
 
 ## 🌟 Features
 
