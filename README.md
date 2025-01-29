@@ -1,16 +1,24 @@
 # X-Clone Backend
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dy0av590l/image/upload/v1729663178/Screenshot_from_2024-10-23_07-47-01_djecvn.png" alt="X-clone App screenshot" width="800"/>
+  <img src="https://res.cloudinary.com/dy0av590l/image/upload/v1738120972/528shots_so_mjlvgc.png" alt="X-clone App screenshot" width="800"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT Badge"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary Badge"/>
-</p>
+
+<div align="center">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-18.x-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-latest-000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/Cloudinary-latest-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+  
+  <a href="https://x-social-media.vercel.app">View Demo</a>
+  ·
+  <a href="https://github.com/SamuelFerfort/x-clone-frontend">Frontend Repo</a>
+  ·
+  <a href="https://github.com/SamuelFerfort/x-clone-backend/issues">Report Bug</a>
+</div>
 
 Backend for the X-Clone application, built with Node.js and Express, managing user authentication, media uploads, and data storage with Prisma and PostgreSQL.
 
@@ -75,7 +83,7 @@ npx prisma migrate dev --name init
 npm run devStart
 ```
 
-The server should now be running on http://localhost:3000.
+The server should now be running on <http://localhost:3000>.
 
 ## 🎯 Goals
 
